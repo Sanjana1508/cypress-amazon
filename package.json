@@ -1,0 +1,17 @@
+{
+  "name": "cypressamazonassignment",
+  "version": "1.0.0",
+  "description": "Cypress Amazon Assignemnt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.5.0"
+  },
+  "dependencies": {
+    "cypress-iframe": "^1.0.1"
+  }
+}
